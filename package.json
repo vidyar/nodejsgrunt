@@ -10,7 +10,12 @@
     "test": "make test"
   },
   "devDependencies": {
-    "mocha": "1.12.x",
+    "mocha": "~1.16.2",
     "istanbul": "0.1.x" 
-  }
+  	"jshint": "~2.3.0",
+	"karma": "~0.10",
+    "karma-junit-reporter": "~0.1",
+    "karma-jasmine": "~0.1",
+    "karma-ng-scenario": "~0.1",
+	"xunit-file": "0.0.5",}
 }
